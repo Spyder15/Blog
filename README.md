@@ -8,3 +8,5 @@
 - [Git, its commands and GitHub.........](https://dev.to/spyder15/git-its-commands-and-github-i7k)
 - [🛑WEB DESIGNING ROAD MAP.........🛑](https://dev.to/spyder15/web-designing-road-map-1a16)
 - [Roadmap to Full-Stack Development](https://dev.to/spyder15/roadmap-to-full-stack-development-fg0)
+- [15 Best Terminal Commands That You Should Know](https://dev.to/spyder15/15-best-terminal-commands-that-you-should-know-22ae)
+
